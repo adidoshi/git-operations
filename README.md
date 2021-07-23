@@ -1,4 +1,4 @@
-# git operations 
+# git operations-steps
 
 Intitializing git repository -> adding files -> commit changes -> publish repository.
 
